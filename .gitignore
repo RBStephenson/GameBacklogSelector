@@ -348,3 +348,6 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+.idea/.idea.GameBacklogSelector.dir/.idea/contentModel.xml
+.idea/.idea.GameBacklogSelector.dir/.idea/modules.xml
+.idea/.idea.GameBacklogSelector.dir/riderModule.iml
